@@ -1,4 +1,4 @@
-# eeg
+# EEG
 EEG data from hands movement
 This repository contains the code for emotion recognition using wavelet transform and svm classifiers' rbf kernel.
 
