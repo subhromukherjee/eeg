@@ -1,2 +1,2 @@
 # eeg
-EEG data for hands movement
+EEG data from hands movement
